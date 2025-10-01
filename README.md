@@ -83,7 +83,7 @@ Disponíveis no [GitHub da disciplina](https://github.com/evmpython/CAT016_2025)
 
 - 📧 **E-mail**: enrique@unifei.edu.br
 - 💻 **GitHub**: https://github.com/evmpython
-- 📅 **Atualizado em**: 03/07/2025
+- 📅 **Atualizado em**: 01/10/2025
 
 ---
 
